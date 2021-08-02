@@ -1,5 +1,6 @@
 
 # This program get defference of the 2 main diagonals and return the difference
+# Question and the sample is in the readme file
 
 import math
 
